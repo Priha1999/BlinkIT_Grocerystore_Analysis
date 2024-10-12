@@ -4,8 +4,11 @@ This Power BI dashboard provides a detailed analysis of the sales performance ac
 
 Key Performance Indicators (KPIs)
 Total Sales: Represents the overall sales generated across all outlets, providing a clear view of revenue performance.
+
 Average Sales: Calculates the average sales per transaction, offering insight into the typical value of a sale.
+
 Number of Items: Displays the total number of items sold, giving a sense of the volume of transactions.
+
 Average Rating: Provides the average customer rating, helping assess customer satisfaction and feedback on products.
 
 Visualizations
